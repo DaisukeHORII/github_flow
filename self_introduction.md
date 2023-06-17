@@ -7,4 +7,4 @@
 Python
 ## 好きなゲーム
 スターレイル
-
+amagami
